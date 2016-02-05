@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lightbikes.CSharp.Plugins", "lightbikes.CSharp.Plugins.csproj", "{F14A5944-0C42-C069-DAD6-0C0F91D5F827}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lightbikes.CSharp", "lightbikes.CSharp.csproj", "{ADD7D5FB-E4F4-E8BA-7405-930F7EF0C85A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lightbikes.CSharp.Editor", "lightbikes.CSharp.Editor.csproj", "{73A857EB-442C-73B2-618F-B60FC9D1BA09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F14A5944-0C42-C069-DAD6-0C0F91D5F827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14A5944-0C42-C069-DAD6-0C0F91D5F827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F14A5944-0C42-C069-DAD6-0C0F91D5F827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F14A5944-0C42-C069-DAD6-0C0F91D5F827}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD7D5FB-E4F4-E8BA-7405-930F7EF0C85A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD7D5FB-E4F4-E8BA-7405-930F7EF0C85A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD7D5FB-E4F4-E8BA-7405-930F7EF0C85A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD7D5FB-E4F4-E8BA-7405-930F7EF0C85A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73A857EB-442C-73B2-618F-B60FC9D1BA09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A857EB-442C-73B2-618F-B60FC9D1BA09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A857EB-442C-73B2-618F-B60FC9D1BA09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A857EB-442C-73B2-618F-B60FC9D1BA09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
